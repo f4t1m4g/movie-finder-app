@@ -1,6 +1,4 @@
 {
-  "homepage": "https://f4t1m4g.github.io/movie-finder-app",
-  "name": "movie-finder-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
